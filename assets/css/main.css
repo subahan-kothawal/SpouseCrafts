@@ -1390,3 +1390,16 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+.whatsapp-link {
+  color: #ffffff;
+  background-color: #25D366;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+.whatsapp-link:hover {
+  background-color: #1EBEA5;
+}
